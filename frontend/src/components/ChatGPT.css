@@ -1,0 +1,20 @@
+/* ChatGPT.css */
+.fixed-chat-icon {
+    position: fixed;
+    bottom: 33px;
+    right: 39px;
+    z-index: 1000; /* Adjust the z-index as needed */
+  }
+  
+  .chat-icon-btn {
+    border-radius: 50%!important;
+    width: 55px;
+    height: 55px;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  .chat-modal {
+    /* Add your custom styling for the chat modal here */
+  }
+  
